@@ -4,8 +4,8 @@
 ## Project
 
 ### 1. Titanic - Machine Learning from Disaster
-- [[Subinium Tutorial] Titanic (Beginner)](https://www.kaggle.com/code/subinium/subinium-tutorial-titanic-beginner/notebook)
-- [Titanic competition w/ TensorFlow Decision Forests](https://www.kaggle.com/code/gusthema/titanic-competition-w-tensorflow-decision-forests)
+- [[Subinium Tutorial] Titanic (Beginner)](https://www.kaggle.com/code/subinium/subinium-tutorial-titanic-beginner/notebook) | 완료 ✅
+- [Titanic competition w/ TensorFlow Decision Forests](https://www.kaggle.com/code/gusthema/titanic-competition-w-tensorflow-decision-forests) | 진행중 🏃🏻
 - [Titanic - Advanced Feature Engineering Tutorial](https://www.kaggle.com/code/gunesevitan/titanic-advanced-feature-engineering-tutorial)
 
 ### 2. Natural Language Processing with Disaster Tweets
