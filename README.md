@@ -7,7 +7,7 @@
 - [[Subinium Tutorial] Titanic (Beginner)](https://github.com/scottXchoo/Kaggle_Practice/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/tutorial-titanic-for-beginner.ipynb)
 
 ### 2. Bike Sharing Demand
-- [Understanding of competition](https://github.com/scottXchoo/Kaggle_Practice/blob/main/Bike%20Sharing%20Demand/%231.%20Understanding%20of%20Competition.ipynb)
+- [Understanding of competition](https://github.com/scottXchoo/Kaggle_Practice/blob/main/Bike%20Sharing%20Demand/ch6-1-understanding-of-competition.ipynb)
 - EDA
 - Baseline
 - Modeling
