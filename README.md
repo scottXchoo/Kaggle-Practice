@@ -17,4 +17,4 @@
 ## 3. [Plant Pathology 2020](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7) (병든 잎사귀 식별)
 - #1. [EDA (Exploratory Data Analysis](https://github.com/scottXchoo/Kaggle_Practice/blob/main/Plant%20Pathology%202020/%231.%20EDA%20(Exploratory%20Data%20Analysis).ipynb)
 - #2. [Baseline Model](https://github.com/scottXchoo/Kaggle_Practice/blob/main/Plant%20Pathology%202020/%232.%20Baseline%20Model.ipynb)
-- #3. Improve Performance & Submission
+- #3. [Improve Performance & Submission](https://github.com/scottXchoo/Kaggle_Practice/blob/main/Plant%20Pathology%202020/%233.%20Improve%20Performance%20%26%20Submission.ipynb)
